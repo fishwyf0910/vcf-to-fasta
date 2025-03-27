@@ -10,4 +10,4 @@ tabix my_vcf_file.vcf.gz
 conda activate base
 python /data01/wangyf/software/vcf2fasta/vcf2fasta.py -f /data01/wangyf/project2/CyprinusCarpio/15.pop/7.annovar/new/genome/genome.fa -v fabp3.exon1.vcf.gz -g fabp3.gff -e exon -o out
 
-## v2f/functions.py 该脚本请用我传上去的替换掉，晓琦大师改好的！
+## v2f/functions.py 替换该脚本，晓琦大师改好的！
