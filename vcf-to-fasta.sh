@@ -16,4 +16,4 @@ python /data01/wangyf/software/vcf2fasta/vcf2fasta.py \
 -o out
 
 ## v2f/functions.py 替换该脚本，晓琦大师改好的！
-## 结果中的exon是从0开始排
+## 结果中的exon是从0开始排，output文件夹中其他文件可删除（其中无变异）
