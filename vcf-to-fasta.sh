@@ -15,5 +15,6 @@ python /data01/wangyf/software/vcf2fasta/vcf2fasta.py \
 -e intron \
 -o out
 
+## grep 提出某个基因的genome.gff
 ## 结果文件夹中的 exon 是从0开始排，output文件夹中其他文件可删除（其中无变异）
 ## 如果要提 intron 或 utr 区域的序列，在 gff 中增加对应的行，并修改第3列为intron，第4、5列为对应的坐标
